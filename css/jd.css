@@ -7,9 +7,10 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 body {
 	text-align: center;
-	font-family: ProximaNova, freight-sans-pro, Helvetica, Arial, sans-serif;
-	font-size: 1em;
-	line-height: 1.4em;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1rem;
+	color: #444444;
+	line-height: 1.4rem;
 }
 
 a {
@@ -22,9 +23,7 @@ a:focus, a:hover {
 }
 
 h1 {
-	color: #444444;
-	font-family: acta-display, Georgia, Times, serif;
-	font-size: 3em;
+	font-size: 3rem;
 	font-weight: 400;
 	letter-spacing: -1px;
 	line-height: 1.25em;
