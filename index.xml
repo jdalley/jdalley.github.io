@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Dalley - Developer of Things</title>
+    <link>https://jeffdalley.com/</link>
+    <description>Recent content on Jeff Dalley - Developer of Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeffdalley.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jeffdalley.com/about/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffdalley.com/about/</guid>
+      <description>Oh, hi! I write things; mostly words, and sometimes in programming languages.
+I&amp;rsquo;m passionate about programming, new tech, web culture, and helping people. I spend a lot of my free pouring over what&amp;rsquo;s new in the industry, and the community surrounding it. If I&amp;rsquo;m not doing that you&amp;rsquo;ll find me gaming, reading fantasy novels, drinking craft beer, or hanging out with my wife and dog.
+This site will serve as a mix of musings on programming for sure, but also a collection of things I think are cool and choose to noodle on.</description>
+    </item>
+    
+    <item>
+      <title>Is This Thing On?</title>
+      <link>https://jeffdalley.com/post/is-this-thing-on/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffdalley.com/post/is-this-thing-on/</guid>
+      <description>&amp;hellip;tap tap&amp;hellip; is this thing on?
+It&amp;rsquo;s hard to start writing when you&amp;rsquo;re staring at a blank page. My mind begins by trying to categorize all the types of posts I&amp;rsquo;ve thought about writing, but quickly blanks out. Having just watched myself write that, I think the next logical step is to not press backspace, and just keep going. So let&amp;rsquo;s do that.
+Hmm what to write&amp;hellip; what to write&amp;hellip; well I guess I can start by enumerating a list of things I&amp;rsquo;ve been thinking about writing, right?</description>
+    </item>
+    
+  </channel>
+</rss>
